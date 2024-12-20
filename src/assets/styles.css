@@ -1,0 +1,38 @@
+.match-card {
+    border-left: 4px solid #e9ecef;
+    transition: all 0.3s ease;
+}
+
+.match-card:hover {
+    background-color: #f8f9fa;
+}
+
+.score {
+    font-size: 0.9rem;
+    color: #666;
+}
+
+.match-header {
+    background-color: #7FB3D5;
+    color: white;
+    padding: 10px 0;
+}
+
+.team-flag {
+    width: 24px;
+    height: 16px;
+    margin-right: 8px;
+    background-color: #ddd;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.match-status {
+    font-size: 0.8rem;
+    color: #28a745;
+}
+
+.match-time {
+    font-size: 0.8rem;
+    color: #6c757d;
+}
